@@ -1,0 +1,1 @@
+In this project i build a web application for real time live chat using socket.io and socket.io-client library and its method like on() , emit() etc. and also used expressjs, reactjs and nodejs
